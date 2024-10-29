@@ -1,6 +1,6 @@
 # mr-shooter-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the adaptation from [webxr-first-steps repo](https://github.com/meta-quest/webxr-first-steps) running with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
